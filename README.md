@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Ayushi Bose
+## I'm a 2nd year Computer Science student, exploring the world of software dev and tech, with keen interest in ML engineering and security.
 
-<!--
-**ayushibose/ayushibose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Languages & Tools:
+- Programming: Python, Java, C++
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
-Here are some ideas to get you started:
+📫 Let's connect:
+- LinkedIn: https://www.linkedin.com/in/ayushibose/
+- Email: ayushibose12@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
