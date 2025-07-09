@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Ayushi Bose
-## I'm a 2nd year Computer Science student, exploring the world of software dev and tech, with keen interest in ML engineering and security.
+Hi there 👋 I'm Ayushi Bose
+I'm a 2nd year Computer Science student, exploring the world of software dev and tech, with keen interest in ML engineering and security.
 
 🧰 Languages & Tools:
 - Programming: Python, Java, C++
