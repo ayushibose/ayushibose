@@ -1,7 +1,8 @@
 ## Hi there, I'm Ayushi Bose 👋
-🎓 I'm a 2nd year Computer Science student passionate about technology and problem-solving, with keen interest in leveraging data analytics with use of AI. 
-💼 I'm currently exploring opportunities in **Business Analysis**, **Data Science**, and **Software Engineering**.
+🎓 I'm a 2nd year Computer Science student passionate about leveraging data analytics with use of AI to solve real world problems. I love working on projects that combine analytics, coding and creative problem-solving. 
 
+💼 I'm currently exploring opportunities at the intersection of **Business Analysis**, **Data Science** and **Engineering**, where I can use data and technology to drive meaningful business outcomes.
+ 
 🧰 Languages & Tools:
 - Programming: Python, SQL, Javascript, Java, C
 - Web: HTML, CSS, JavaScript
